@@ -1,0 +1,33 @@
+.grid {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: system-ui, Segoe UI, Roboto, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.grid th, .grid td {
+  border: 1px solid #d9d9d9;
+  padding: 8px 10px;
+}
+
+.grid thead th {
+  background: #e9ecef;  
+  text-align: left;
+  font-weight: 600;
+}
+
+.grid td.hours,
+.grid td.actions {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.grid tbody tr.low {
+  background: #f3b2a8;  
+}
+
+.grid a {
+  color: #1a73e8;
+  text-decoration: underline;
+  cursor: pointer;
+}

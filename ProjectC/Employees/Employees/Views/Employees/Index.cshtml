@@ -1,0 +1,61 @@
+﻿@model IReadOnlyList<Employees.Models.Time>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    thead th {
+        background: #222;
+        color: #fff;
+    }
+
+    .low-hours {
+        background: #fdeaea;
+    }
+
+    .chart-img {
+        display: block;
+        margin: 16px auto;
+        max-width: 600px;
+        width: 100%;
+        height: auto;
+    }
+
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Total time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model)
+        {
+            <tr class="@(row.TotalHours < 100 ? "low-hours" : "")">
+                <td>@row.Employee</td>
+                <td>@($"{row.TotalHours:F0} h")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@{
+    var key = Context.Request.Query["key"].ToString();                 
+    var src = Url.Action("Pie", "Chart", new { key, t = DateTimeOffset.UtcNow.ToUnixTimeSeconds() });
+}
+<img src="@src" alt="Pie chart" class="chart-img" />
+
+
+
+

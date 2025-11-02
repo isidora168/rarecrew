@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projekat\\ProjectC\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\querystringapikeysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\querystringapikeysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\ientrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\ientrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\iapiurlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\iapiurlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\iapikeysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\iapikeysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\entrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\entrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\apiurlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\apiurlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\models\\entrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\models\\entrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\models\\apioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\models\\apioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\appsettings.json",
+              "RelativeDocumentMoniker": "Employees\\appsettings.json",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\appsettings.json",
+              "RelativeToolTip": "Employees\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T18:56:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Employees\\Program.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Program.cs",
+              "RelativeToolTip": "Employees\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:55.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Employees\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Employees\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:56:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueryStringApiKeySource.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\QueryStringApiKeySource.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\QueryStringApiKeySource.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\QueryStringApiKeySource.cs",
+              "RelativeToolTip": "Employees\\Services\\QueryStringApiKeySource.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntryDataService.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IEntryDataService.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\IEntryDataService.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IEntryDataService.cs",
+              "RelativeToolTip": "Employees\\Services\\IEntryDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiUrlFactory.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IApiUrlFactory.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\IApiUrlFactory.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IApiUrlFactory.cs",
+              "RelativeToolTip": "Employees\\Services\\IApiUrlFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApiKeySource.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IApiKeySource.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\IApiKeySource.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\IApiKeySource.cs",
+              "RelativeToolTip": "Employees\\Services\\IApiKeySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntryDataService.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\EntryDataService.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\EntryDataService.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\EntryDataService.cs",
+              "RelativeToolTip": "Employees\\Services\\EntryDataService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiUrlFactory.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\ApiUrlFactory.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\ApiUrlFactory.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\ApiUrlFactory.cs",
+              "RelativeToolTip": "Employees\\Services\\ApiUrlFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:37.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\Time.cs",
+              "RelativeDocumentMoniker": "Employees\\Models\\Time.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\Time.cs",
+              "RelativeToolTip": "Employees\\Models\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Employees\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Employees\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntryData.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\EntryData.cs",
+              "RelativeDocumentMoniker": "Employees\\Models\\EntryData.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\EntryData.cs",
+              "RelativeToolTip": "Employees\\Models\\EntryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:33.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiOptions.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\ApiOptions.cs",
+              "RelativeDocumentMoniker": "Employees\\Models\\ApiOptions.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Models\\ApiOptions.cs",
+              "RelativeToolTip": "Employees\\Models\\ApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:56:31.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

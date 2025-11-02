@@ -1,0 +1,12 @@
+<div class="wrap">
+
+  <div *ngIf="!apiKey" class="warn">
+    U URL dodajte parametar: <code>/?code=VAŠ_KLJUČ</code><br>
+  </div>
+
+  <app-table [rows]="rows"></app-table>
+</div>
+
+<div>
+  <app-piechart [rows]="rows"></app-piechart>
+</div>

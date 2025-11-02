@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projekat\\ProjectC\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\services\\entrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\services\\entrydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|d:\\projekat\\projectc\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45506E53-1547-4A68-B0EA-79988F513401}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\ChartController.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\ChartController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:45:57.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Employees\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Employees\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:43:38.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:42:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntryDataService.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\EntryDataService.cs",
+              "RelativeDocumentMoniker": "Employees\\Services\\EntryDataService.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Services\\EntryDataService.cs",
+              "RelativeToolTip": "Employees\\Services\\EntryDataService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:01:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projekat\\ProjectC\\Employees\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Employees\\Program.cs",
+              "ToolTip": "D:\\projekat\\ProjectC\\Employees\\Employees\\Program.cs",
+              "RelativeToolTip": "Employees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:54:07.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

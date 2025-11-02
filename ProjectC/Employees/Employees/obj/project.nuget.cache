@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ze/rRg6uG9M=",
+  "success": true,
+  "projectFilePath": "D:\\projekat\\ProjectC\\Employees\\Employees\\Employees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isidora\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\Isidora\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\Isidora\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512"
+  ],
+  "logs": []
+}

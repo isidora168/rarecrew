@@ -1,0 +1,22 @@
+<table class="grid" *ngIf="rows?.length; else empty">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Total Time in Month</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let r of rows; trackBy: trackByName" [class.low]="r.totalHours < 100">
+      <td class="name">{{ r.employee }}</td>
+      <td class="hours">{{ formatHours(r.totalHours) }} hrs</td>
+      <td class="actions">
+        <a href="">Edit</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<ng-template #empty>
+  <p>No data.</p>
+</ng-template>
